@@ -11,9 +11,8 @@ I'm a currently a Front-End developer Learning Backand development and part of t
 
 
 ### Links
-LinkedIn - https://www.linkedin.com/in/ujjawal-pratap-singh-355961255/
-
-GitHub - https://github.com/Ujjawalps
+●LinkedIn - https://www.linkedin.com/in/ujjawal-pratap-singh-355961255/
+●GitHub - https://github.com/Ujjawalps
 
 
 ## About Team Members
