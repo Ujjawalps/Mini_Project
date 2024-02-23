@@ -10,10 +10,10 @@ I'm an AIML student "Ujjawal Pratap Singh" at NIET Greater Noida.
 I'm a currently a Front-End developer Learning Backand development and part of this mini-project team.
 
 
-### Links
-●LinkedIn - https://www.linkedin.com/in/ujjawal-pratap-singh-355961255/
+## Links
+● LinkedIn - https://www.linkedin.com/in/ujjawal-pratap-singh-355961255/
 
-●GitHub - https://github.com/Ujjawalps
+● GitHub - https://github.com/Ujjawalps
 
 
 ## About Team Members
@@ -29,7 +29,6 @@ Our team has currently 4 members...
 
 ● LinkedIn - https://www.linkedin.com/in/yeshfeen44/
  
-
 
 ➲ Mreegendra Narayan
 
