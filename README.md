@@ -23,11 +23,13 @@ Our team has currently 4 members...
 ➲ Dev Goyal
 
 ● LinkedIn - https://www.linkedin.com/in/devgoyalg/
+● GitHub - https://github.com/DevGoyalG
 
 
 ➲ Yeshfeen
 
 ● LinkedIn - https://www.linkedin.com/in/yeshfeen44/
+● GitHub - https://github.com/yeshfeen
  
 
 ➲ Mreegendra Narayan
