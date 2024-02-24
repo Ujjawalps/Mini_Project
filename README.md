@@ -4,6 +4,9 @@
 This Repository is created for our 4th sem's mini_project. We are going to build a website which will guide users for travelling plans by recommending best spots near them and help them to find best and affordable Bus, Hotels and food while travelling.
 
 
+➲ Website Preview link-- https://ujjawalps.github.io/Mini_Project/
+
+
 
 ## 🚀 About Me
 I'm an AIML student "Ujjawal Pratap Singh" at NIET Greater Noida. 
