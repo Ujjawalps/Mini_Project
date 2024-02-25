@@ -36,7 +36,3 @@ Our team has currently 4 members...
 
 ● GitHub - https://github.com/yeshfeen
  
-
-➲ Mreegendra Narayan
-
-● LinkedIn - https://www.linkedin.com/in/mreegendra-narayan-170870266/
