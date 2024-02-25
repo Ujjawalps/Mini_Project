@@ -20,7 +20,7 @@ I'm a currently a Front-End developer Learning Backand development and part of t
 
 
 ## About Team Members
-Our team has currently 4 members...
+Our team has currently 3 members...
 
 
 ➲ Dev Goyal
